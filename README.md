@@ -12,7 +12,7 @@ An interactive and visual COVID-19 dashboard built using Python.
 - Matplotlib
 - Plotly
 
-## ▶ How to Run
+## How to Run
 
 1. Install dependencies:
 ```
