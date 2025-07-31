@@ -2,17 +2,17 @@
 
 An interactive and visual COVID-19 dashboard built using Python.
 
-## 📊 Features
+##  Features
 - Time-series plots for Confirmed, Recovered, and Deaths
 - Interactive pie chart for latest day stats using Plotly
 - CSV dataset included (sample)
 
-## 🛠 Tools Used
+##  Tools Used
 - Pandas
 - Matplotlib
 - Plotly
 
-## ▶️ How to Run
+## ▶ How to Run
 
 1. Install dependencies:
 ```
@@ -24,7 +24,7 @@ pip install pandas matplotlib plotly
 python covid_dashboard.py
 ```
 
-## 📁 Files
+##  Files
 - `covid_data.csv`: Sample dataset
 - `covid_dashboard.py`: Dashboard code
 - `covid_timeseries.png`: Static plot
